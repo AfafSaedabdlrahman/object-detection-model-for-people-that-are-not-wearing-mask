@@ -5,4 +5,4 @@
 
 
 ***Note:**
-* I tried also  YOLOv8 which is the latest version but  the run and  the deploy in progress .so  Ican't send it.
+* I tried also  YOLOv8 which is the latest version  .
